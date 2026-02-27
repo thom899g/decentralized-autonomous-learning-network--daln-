@@ -1,0 +1,2 @@
+# decentralized-autonomous-learning-network--daln-
+**TITLE:** Decentralized Autonomous Learning Network (DALN)**DESCRIPTION:**  A network where each node independently learns from local data and shares knowledge without a central framework, enhancing adaptability in diverse trading environments.**VALUE:**  This approach increases the ecosystem's resilience by decentralizing learning, allowing it to
